@@ -1,3 +1,5 @@
+![firefly-logo](https://user-images.githubusercontent.com/662520/37534949-26d338e0-293e-11e8-82e5-4d0fbeb5b379.png)
+
 # Firefly
 
 Provides some custom animation options for UIViewController transitions. Firefly uses the `tag` property of a UIView object to locate view pairs, it constructs a `Transition` object and using the from/to pair animates between states. Firefly also provides a 'parent' transition for the main view to work in conjunction with subview animations. 
